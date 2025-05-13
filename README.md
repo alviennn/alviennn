@@ -5,13 +5,13 @@
 🎨 I’m passionate about **UI/UX design** and specialize in **frontend development**.  
 💡 I love crafting user-friendly interfaces and bringing intuitive digital experiences to life.
 
-🛠️ Tech Stack & Tools:
+### 🛠️ Tech Stack & Tools:
 - 💻 Languages: HTML, CSS, JavaScript, PHP
 - ⚙️ Frameworks/Libraries: Laravel, React, Bootstrap, Tailwind CSS, Jetpack Compose
 - 🎨 Design Tools: Figma, Canva, Adobe XD
 - 🔧 Others: Git, VS Code, Postman
 
-📫 How to reach me:
+### 📫 How to reach me:
 - 📧 [alvien.rnp@gmail.com](mailto:alvien.rnp@gmail.com)
 - 💼 [LinkedIn – Alvien Ridho Nanda Pryastika](https://www.linkedin.com/in/alvien-ridho-nanda-pryastika-9394a6263)
 
