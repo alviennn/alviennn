@@ -11,10 +11,9 @@
 - 🎨 Design Tools: Figma, Canva, Adobe XD
 - 🔧 Others: Git, VS Code, Postman
 
-📈 My GitHub Stats:
-![Alvien's GitHub stats](https://github-readme-stats.vercel.app/api?username=alviennn&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alviennn&layout=compact&theme=radical)
-
 📫 How to reach me:
 - 📧 [alvien.rnp@gmail.com](mailto:alvien.rnp@gmail.com)
 - 💼 [LinkedIn – Alvien Ridho Nanda Pryastika](https://www.linkedin.com/in/alvien-ridho-nanda-pryastika-9394a6263)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alviennn&layout=compact&theme=radical)
