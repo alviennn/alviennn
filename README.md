@@ -1,6 +1,6 @@
 # Hi, I'm Alvien Ridho Nanda Pryastika
 
-I am an Information Technology graduate from **Universitas Muhammadiyah Yogyakarta** with a focus on **UI/UX Design** and **Frontend Development**.
+I am an Information Technology graduate from Universitas Muhammadiyah Yogyakarta with a focus on UI/UX Design and Frontend Development.
 
 I enjoy designing clean interfaces, building responsive websites, and creating digital experiences that are simple, functional, and easy to use. My work combines interface design, frontend implementation, and structured problem-solving to support practical digital products.
 
