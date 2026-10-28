@@ -45,8 +45,6 @@ I enjoy designing clean interfaces, building responsive websites, and creating d
 
 ## GitHub Stats
 
-![Alvien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alviennn\&show_icons=true\&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alviennn\&layout=compact\&theme=radical)
 
 ---
